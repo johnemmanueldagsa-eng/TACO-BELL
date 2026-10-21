@@ -53,7 +53,7 @@ export default function CTAButton() {
       </p>
 
       {/* Subtle bottom glow */}
-      <div className="absolute -bottom-4 left-1/2 -translate-x-1/2 w-3/4 h-8 bg-[#0024cc]/20 blur-2xl -z-10 rounded-full opacity-50 pointer-events-none" />
+      <div className="absolute -bottom-4 left-1/2 -translate-x-1/2 w-3/4 h-8 bg-[#e68825]/20 blur-2xl -z-10 rounded-full opacity-50 pointer-events-none" />
     </div>
   );
 }
