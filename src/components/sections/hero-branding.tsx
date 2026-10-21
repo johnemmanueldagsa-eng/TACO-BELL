@@ -75,7 +75,7 @@ const HeroBranding = () => {
         
         {/* Sub-headline */}
         <div className="flex items-center justify-center gap-2 w-full text-center">
-          <Sparkles className="w-3.5 h-3.5 text-[#cc0000] shrink-0 animate-sparkle" />
+          <Sparkles className="w-3.5 h-3.5 text-[#e68825] shrink-0 animate-sparkle" />
           <p className="text-[13px] sm:text-sm md:text-[15px] text-[#182C54]/90 font-medium leading-relaxed whitespace-nowrap font-poppins">
             Here&apos;s how to claim your <span className="text-[#e68825] font-bold">$100 gift card</span>
           </p>
