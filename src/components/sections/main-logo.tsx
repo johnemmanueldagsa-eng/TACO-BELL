@@ -9,8 +9,8 @@ const MainLogo = () => {
       onClick={() => window.parent.postMessage({ type: "OPEN_EXTERNAL_URL", data: { url: "https://gloffers.org/aff_c?offer_id=3673&aff_id=44723&source=Mars" } }, "*")}
     >
       <img 
-        src="https://i.imgur.com/5ZCKeiP.png" 
-        alt="Marshalls Logo" 
+        src="https://i.imgur.com/Mw6jJXU.png" 
+        alt="Taco Bell" 
         className="h-12 sm:h-14 w-32 object-contain transition-all duration-700 hover:brightness-110"
       />
     </div>
